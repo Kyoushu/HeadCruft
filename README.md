@@ -15,3 +15,4 @@ Elements must also pass at least one of the following rules
 2. The element is used by a single vendor to confirm ownership or control of a site
 3. The element would not exist if the vendor responsible for its creation provided better tools
 4. The element would not exist if the vendor responsible for its creation checked to see if something similar already existed
+5. The element is completely superfluous
